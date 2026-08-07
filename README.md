@@ -405,6 +405,10 @@ AI-Powered Financial Security Operations Center
 
 Developed for an AI in Finance Hackathon.
 
+We haven't deployed our prototype yet. This Git repository contains all the project files. You can clone the repository, run the project locally, and it should work as expected.
+
+
+
 ---
 
 # 📄 License
